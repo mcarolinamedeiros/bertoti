@@ -17,4 +17,8 @@ Auditabilidade: Tem que manter uma organização que possa ser verificada para e
 4- TRADE-OFFS
 
 4.1 - Ao utilizar uma autenticação multifator, se escolhe a segurança acima da praticidade.
-4.2 - Para um melhor desempenho de máquina é necessário consumo de recursos mais complexos, como aplicações otimizadas e sistemas mais responsivos, que custam mais caro e gastam mais energia.                                                         4.3 - Normalização é mais organizada, reduz redundância e inconsistências, mas é mais lenta, a desnormalização tem foco em performance, utilizando menos JOINS 
+4.2 - Para um melhor desempenho de máquina é necessário consumo de recursos mais complexos, como aplicações otimizadas e sistemas mais responsivos, que custam mais caro e gastam mais energia.                                                      
+4.3 - Normalização é mais organizada, reduz redundância e inconsistências, mas é mais lenta, a desnormalização tem foco em performance, utilizando menos JOINS 
+
+5- É POSSÍVEL TESTAR TUDO?
+Todos os números a partir de 29999 positivo e negativo devolvem um número diferente de zero
